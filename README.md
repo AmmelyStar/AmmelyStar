@@ -16,7 +16,7 @@ On a team project, I had experience as a Scrum Master. I also used Agile methodo
 
 <!-- <img align="right" src="./assets/code.gif" width="380" height="220"> <br> -->
 
-🌐 **Languages** :
+🌐 **Languages** : <br>
 Ukrainian - native <br>
 English - B1<br>
 German - A2<br>
