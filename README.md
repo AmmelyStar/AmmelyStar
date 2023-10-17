@@ -15,8 +15,7 @@ My project experience includes team and individual projects, where I have use te
 On a team project, I had experience as a Scrum Master. I also used Agile methodologies in practice. <br>
  <br>
     <a href="https://ammelystar.github.io/WebStudio/" style="font-size: 16px;" target="_blanc">
-    <img width="30" src=" https://github.com/AmmelyStar/WebStudio/blob/main/foto/webStudio-ammelystar.github.io.jpeg">
-   
+    <img width="30" src=" https://github.com/AmmelyStar/WebStudio/blob/main/foto/webStudio-ammelystar.github.io.jpeg">   
         WebStudio
     </a> - WebStudio - two page website, adaptive
     <br>
