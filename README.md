@@ -18,6 +18,11 @@ On a team project, I had experience as a Scrum Master. I also used Agile methodo
         WebStudio
     </a> - WebStudio - two page website, adaptive
     <br>
+     <br>
+    <a href="https://ammelystar.github.io/Cat-Search/" style="font-size: 16px;" target="_blanc">
+        Cat-Search
+    </a> - This repository contains the front-end part of an application for searching information about cats based on their breed. The application uses the public The Cat API to fetch data about cats and their breeds.
+    <br>
 
 <!-- <img align="right" src="./assets/code.gif" width="380" height="220"> <br> -->
 
