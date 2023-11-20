@@ -16,7 +16,7 @@ On a team project, I had experience as a Scrum Master. I also used Agile methodo
  <br>
     <a href="https://ammelystar.github.io/WebStudio/" style="font-size: 16px;" target="_blanc">
         WebStudio
-    </a> - WebStudio - two page website, adaptive
+    </a> - WebStudio - is a project focused on the responsive design of the main page, ensuring optimal display on various devices from 320px and up. It features a mobile menu for convenient navigation. Technical highlights include responsive images, media queries, and a styled mobile menu. Technologies used: HTML, CSS, JavaScript.
     <br>
      <br>
     <a href="https://ammelystar.github.io/Cat-Search/" style="font-size: 16px;" target="_blanc">
