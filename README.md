@@ -1,16 +1,19 @@
-<div id="header" align="center">
+<div id='header' align='center'>
+  <h1>Hello, I'm Anna!
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+  </h1>
+  <h3>I am a Frontend Developer based in Austria.</h3>
+  <p>I love writing code, creating new things. Frontend Development</p>
+</div>
+
+## Prodjects
 
 <!-- <img src="./assets/github.gif" width="100"/> -->
-
-<h1>
-Hello, I'm Anna!
-<img src="./assets/giphy.gif" width="30px" alt="GIF">
-</h1>
 
 </div>
   
 ### 👨‍💻 About Me :
-I am study on **Full Stack JavaScript** development course. <br> 
+ 
 My project experience includes team and individual projects, where I have use technologies such as **HTML5**, **CSS3**, **JavaScript**. <br>
 On a team project, I had experience as a Scrum Master. I also used Agile methodologies in practice. <br>
  <br>
