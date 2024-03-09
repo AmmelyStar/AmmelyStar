@@ -6,30 +6,26 @@
   <p>I love writing code, creating new things. </p>
 </div>
 
-## Prodjects
+
 
 <!-- <img src="./assets/github.gif" width="100"/> -->
 
 </div>
   
-### 👨‍💻 About Me :
+### 👨‍💻 About Me:
  
 My project experience includes team and individual projects, where I have use technologies such as **HTML5**, **CSS3**, **JavaScript**. <br>
 On a team project, I had experience as a Scrum Master. I also used Agile methodologies in practice. <br>
  <br>
-
+## Prodjects: 
 - ["Bookshelf"](https://oleksandrkravcuk.github.io/Runners-of-code/) - is a vanilla JavaScript group project designed for browsing and collecting detailed book information. Users can easily add/remove books from the cart. The project includes various features such as authentication, a dark/light theme switch, a "Scroll Up" button, a loader, and user-friendly navigation.
 
 
 - ["Yacht Adventure"](https://oleksandrkravcuk.github.io/project-group-V/) - Website is a web platform offering users the opportunity to explore yacht rental services and make reservations. Developed using HTML5, CSS3, and JavaScript to provide dynamic interactivity. The site features a responsive design optimized for various devices. SwiperJS is utilized to create sliders and a form for data validation.
-    <a href="https://ammelystar.github.io/WebStudio/" style="font-size: 16px;" target="_blanc">
-        WebStudio
-    </a> - WebStudio - is a project focused on the responsive design of the main page, ensuring optimal display on various devices from 320px and up. It features a mobile menu for convenient navigation. Technical highlights include responsive images, media queries, and a styled mobile menu. Technologies used: HTML, CSS, JavaScript.
-    <br>
-     <br>
-    <a href="https://ammelystar.github.io/Cat-Search/" style="font-size: 16px;" target="_blanc">
-        Cat-Search
-    </a> - This repository contains the front-end part of an application for searching information about cats based on their breed. The application uses the public The Cat API to fetch data about cats and their breeds.
+ 
+  - ["WebStudio"](https://ammelystar.github.io/WebStudio/) - is a project focused on the responsive design of the main page, ensuring optimal display on various devices from 320px and up. It features a mobile menu for convenient navigation. Technical highlights include responsive images, media queries, and a styled mobile menu. Technologies used: HTML, CSS, JavaScript.
+
+   - ["Cat-Search"](https://ammelystar.github.io/Cat-Search/) - This repository contains the front-end part of an application for searching information about cats based on their breed. The application uses the public The Cat API to fetch data about cats and their breeds.
     <br>
 
 <!-- <img align="right" src="./assets/code.gif" width="380" height="220"> <br> -->
@@ -41,10 +37,10 @@ German - A2<br>
 Russian - native<br>
 
 
-### Roadmap 2023 :
+<!--### Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
-📚 - **Learn:** `JavaScript`| `React` <br>
+📚 - **Learn:** `JavaScript`| `React` <br>-->
 
 ### My stack:
 
