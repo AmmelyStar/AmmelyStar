@@ -3,7 +3,7 @@
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
   </h1>
   <h3>I am a Frontend Developer based in Austria.</h3>
-  <p>I love writing code, creating new things. Frontend Development</p>
+  <p>I love writing code, creating new things. </p>
 </div>
 
 ## Prodjects
