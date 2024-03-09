@@ -23,9 +23,9 @@ On a team project, I had experience as a Scrum Master. I also used Agile methodo
 
 - ["Yacht Adventure"](https://oleksandrkravcuk.github.io/project-group-V/) - Website is a web platform offering users the opportunity to explore yacht rental services and make reservations. Developed using HTML5, CSS3, and JavaScript to provide dynamic interactivity. The site features a responsive design optimized for various devices. SwiperJS is utilized to create sliders and a form for data validation.
  
-  - ["WebStudio"](https://ammelystar.github.io/WebStudio/) - is a project focused on the responsive design of the main page, ensuring optimal display on various devices from 320px and up. It features a mobile menu for convenient navigation. Technical highlights include responsive images, media queries, and a styled mobile menu. Technologies used: HTML, CSS, JavaScript.
+- ["WebStudio"](https://ammelystar.github.io/WebStudio/) - is a project focused on the responsive design of the main page, ensuring optimal display on various devices from 320px and up. It features a mobile menu for convenient navigation. Technical highlights include responsive images, media queries, and a styled mobile menu. Technologies used: HTML, CSS, JavaScript.
 
-   - ["Cat-Search"](https://ammelystar.github.io/Cat-Search/) - This repository contains the front-end part of an application for searching information about cats based on their breed. The application uses the public The Cat API to fetch data about cats and their breeds.
+- ["Cat-Search"](https://ammelystar.github.io/Cat-Search/) - This repository contains the front-end part of an application for searching information about cats based on their breed. The application uses the public The Cat API to fetch data about cats and their breeds.
     <br>
 
 <!-- <img align="right" src="./assets/code.gif" width="380" height="220"> <br> -->
