@@ -32,8 +32,8 @@ On a team project, I had experience as a Scrum Master. I also used Agile methodo
 
 🌐 **Languages** : <br>
 Ukrainian - native <br>
-English - Upper-intermediater<br>
-German - Upper-intermediater<br>
+English - upper-intermediater<br>
+German - upper-intermediater<br>
 Russian - native<br>
 
 
