@@ -18,18 +18,20 @@ My project experience includes team and individual projects, where I have use te
 On a team project, I had experience as a Scrum Master. I also used Agile methodologies in practice. <br>
  <br>
 ## Prodjects: 
-- ["CampCruise-Rent"](https://ammelystar.github.io/CampCruise-Rent/) - Tech Stack: React, Redux, Emotion, Axios, Webpack, Babel, React Router, PropTypes, SVG
-Description: CampCruise-Rent is a web platform offering camper rental services in Ukraine. Users can find the perfect camper for their travels and conveniently manage the rental process. Currently, the application is available according to the layout on desktop screens of 1440px.  [repo](https://github.com/AmmelyStar/CampCruise-Rent)
+- ["CampCruise-Rent"](https://ammelystar.github.io/CampCruise-Rent/) - use: React, Redux, Emotion, Axios, Webpack, Babel, React Router, PropTypes, SVG
+Description: CampCruise-Rent is a web platform offering camper rental services in Ukraine. Users can find the perfect camper for their travels and conveniently manage the rental process. Currently, the application is available according to the layout on desktop screens of 1440px. [repo](https://github.com/AmmelyStar/CampCruise-Rent)
+
+- ["Water tracker"](https://denys90.github.io/tracker-of-water-frontend/) - web app for monitoring daily water intake, helping users stay hydrated and healthy. Features include customizable intake goals, easy tracking, visual progress indicators, and detailed statistics. Built with React, Redux, Emotion, and other modern tools. [repo](https://github.com/AmmelyStar/tracker-of-water)
 
 - ["Bookshelf"](https://oleksandrkravcuk.github.io/Runners-of-code/) - is a vanilla JavaScript group project designed for browsing and collecting detailed book information. Users can easily add/remove books from the cart. The project includes various features such as authentication, a dark/light theme switch, a "Scroll Up" button, a loader, and user-friendly navigation. [repo](https://github.com/AmmelyStar/Runners-of-code)
 
+- ["Weather-forecast"](https://ammelystar.github.io/Weather-forecast/) - This weather app lets users check current weather conditions for any city. It displays temperature, weather description, humidity, and wind speed. The app fetches data from the SheCodes Weather API using Axios, with a clean and responsive design for desktop and mobile.  [repo](https://github.com/AmmelyStar/Weather-forecast)
 
 - ["Yacht Adventure"](https://oleksandrkravcuk.github.io/project-group-V/) - Website is a web platform offering users the opportunity to explore yacht rental services and make reservations. Developed using HTML5, CSS3, and JavaScript to provide dynamic interactivity. The site features a responsive design optimized for various devices. SwiperJS is utilized to create sliders and a form for data validation.  [repo](https://github.com/AmmelyStar/Yacht-Adventures) 
  
 - ["WebStudio"](https://ammelystar.github.io/WebStudio/) - is a project focused on the responsive design of the main page, ensuring optimal display on various devices from 320px and up. It features a mobile menu for convenient navigation. Technical highlights include responsive images, media queries, and a styled mobile menu. Technologies used: HTML, CSS, JavaScript.  [repo](https://github.com/AmmelyStar/WebStudio)
 
-- ["Cat-Search"](https://ammelystar.github.io/Cat-Search/) - This repository contains the front-end part of an application for searching information about cats based on their breed. The application uses the public The Cat API to fetch data about cats and their breeds.
-    <br>
+
 
 <!-- <img align="right" src="./assets/code.gif" width="380" height="220"> <br> -->
 
