@@ -18,7 +18,7 @@ My project experience includes team and individual projects, where I have use te
 On a team project, I had experience as a Scrum Master. I also used Agile methodologies in practice. <br>
  <br>
 ## Prodjects: 
-- ["CampCruise-Rent"](https://ammelystar.github.io/CampCruise-Rent/) -  web platform offering camper rental services in Ukraine. Users can find the perfect camper for their travels and conveniently manage the rental process. Currently, the application is available according to the layout on desktop screens of 1440px.  Built with React, Redux, Emotion, Axios, Webpack, Babel, React Router, PropTypes, SVG [repo](https://github.com/AmmelyStar/CampCruise-Rent)
+- ["CampCruise-Rent"](https://ammelystar.github.io/CampCruise-Rent/) -  web platform offering camper rental services in Ukraine. Users can find the perfect camper for their travels and conveniently manage the rental process. The website has responsive design with breakpoints for mobile, tablet, and desktop.  Built with React, Redux, Emotion, Axios, Webpack, Babel, React Router, PropTypes, SVG [repo](https://github.com/AmmelyStar/CampCruise-Rent)
 
 - ["Water tracker"](https://denys90.github.io/tracker-of-water-frontend/) - web app for monitoring daily water intake, helping users stay hydrated and healthy. Features include customizable intake goals, easy tracking, visual progress indicators, and detailed statistics. Built with React, Redux, Emotion, and other modern tools. [repo](https://github.com/AmmelyStar/tracker-of-water)
 
